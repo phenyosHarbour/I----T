@@ -1,7 +1,5 @@
 # NUM IT Support Ticket System
 
-![image](https://github.com/user-attachments/assets/48b629e5-3b26-4aca-8200-dfe18c00698d)
-![image](https://github.com/user-attachments/assets/4f0142c4-5467-4f23-b4b1-941569c1458d)
 
 
 A desktop application for the National Union of Mineworkers (NUM) to log, manage, and resolve IT support requests. Built with Python and Tkinter, using SQLite for data storage.
@@ -14,7 +12,8 @@ A desktop application for the National Union of Mineworkers (NUM) to log, manage
 - Data stored locally in `support_db.sqlite`
 
 ## Screenshots
-*(Add screenshots here if available)*
+![image](https://github.com/user-attachments/assets/48b629e5-3b26-4aca-8200-dfe18c00698d)
+![image](https://github.com/user-attachments/assets/4f0142c4-5467-4f23-b4b1-941569c1458d)
 
 ## Getting Started
 
